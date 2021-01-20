@@ -15,9 +15,9 @@ Comment4 ""
 $EndDescr
 NoConn ~ 10225 950 
 Text GLabel 10225 1250 2    50   Input ~ 0
-ROW3A
+ROW3
 Text GLabel 10225 1150 2    50   Input ~ 0
-ROW2A
+ROW2
 Text GLabel 8825 750  0    50   Input ~ 0
 ROW1
 $Comp
@@ -922,9 +922,9 @@ ROW0
 Text GLabel 6950 5150 2    50   Input ~ 0
 ROW1
 Text GLabel 6950 5750 2    50   Input ~ 0
-ROW2A
+ROW2
 Text GLabel 7075 6350 2    50   Input ~ 0
-ROW3A
+ROW3
 Text GLabel 1350 6600 3    50   Input ~ 0
 COL6
 Text GLabel 2250 6600 3    50   Input ~ 0
@@ -964,9 +964,9 @@ ROW1
 Text GLabel 7325 1750 0    50   Input ~ 0
 ROW0
 Text GLabel 7325 1950 0    50   Input ~ 0
-ROW2A
+ROW2
 Text GLabel 7325 2050 0    50   Input ~ 0
-ROW3A
+ROW3
 Text GLabel 7800 1500 2    50   Input ~ 0
 COL1
 Text GLabel 7800 1400 2    50   Input ~ 0
@@ -1658,6 +1658,50 @@ F 1 "MountingHole" H 9150 4005 50  0000 L CNN
 F 2 "footprints:hole-three" H 9050 4050 50  0001 C CNN
 F 3 "~" H 9050 4050 50  0001 C CNN
 	1    9050 4050
+	1    0    0    -1  
+$EndComp
+$Comp
+L mechanical:MountingHole H9
+U 1 1 60085A62
+P 8325 4275
+F 0 "H9" H 8425 4321 50  0000 L CNN
+F 1 "MountingHole" H 8425 4230 50  0000 L CNN
+F 2 "footprints:hole-three" H 8325 4275 50  0001 C CNN
+F 3 "~" H 8325 4275 50  0001 C CNN
+	1    8325 4275
+	1    0    0    -1  
+$EndComp
+$Comp
+L mechanical:MountingHole H11
+U 1 1 60085C68
+P 8325 4475
+F 0 "H11" H 8425 4521 50  0000 L CNN
+F 1 "MountingHole" H 8425 4430 50  0000 L CNN
+F 2 "footprints:hole-three" H 8325 4475 50  0001 C CNN
+F 3 "~" H 8325 4475 50  0001 C CNN
+	1    8325 4475
+	1    0    0    -1  
+$EndComp
+$Comp
+L mechanical:MountingHole H10
+U 1 1 60085C72
+P 9050 4275
+F 0 "H10" H 9150 4321 50  0000 L CNN
+F 1 "MountingHole" H 9150 4230 50  0000 L CNN
+F 2 "footprints:hole-three" H 9050 4275 50  0001 C CNN
+F 3 "~" H 9050 4275 50  0001 C CNN
+	1    9050 4275
+	1    0    0    -1  
+$EndComp
+$Comp
+L mechanical:MountingHole H12
+U 1 1 60085C7C
+P 9050 4475
+F 0 "H12" H 9150 4521 50  0000 L CNN
+F 1 "MountingHole" H 9150 4430 50  0000 L CNN
+F 2 "footprints:hole-three" H 9050 4475 50  0001 C CNN
+F 3 "~" H 9050 4475 50  0001 C CNN
+	1    9050 4475
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC
