@@ -37,7 +37,7 @@ U 1 1 5E362220
 P 1300 1100
 F 0 "D1" H 1172 1050 60  0000 R CNN
 F 1 "D" V 1450 1050 60  0001 C CNN
-F 2 "footprints:diode-vertical" H 1300 1100 60  0001 C CNN
+F 2 "footprints:diode" H 1300 1100 60  0001 C CNN
 F 3 "" H 1300 1100 60  0000 C CNN
 	1    1300 1100
 	-1   0    0    1   
@@ -61,7 +61,7 @@ U 1 1 5E363F83
 P 1300 1800
 F 0 "D7" H 1172 1750 60  0000 R CNN
 F 1 "D" V 1450 1750 60  0001 C CNN
-F 2 "footprints:diode-vertical" H 1300 1800 60  0001 C CNN
+F 2 "footprints:diode" H 1300 1800 60  0001 C CNN
 F 3 "" H 1300 1800 60  0000 C CNN
 	1    1300 1800
 	-1   0    0    1   
@@ -85,7 +85,7 @@ U 1 1 5E366E4A
 P 1300 2500
 F 0 "D13" H 1172 2450 60  0000 R CNN
 F 1 "D" V 1450 2450 60  0001 C CNN
-F 2 "footprints:diode-vertical" H 1300 2500 60  0001 C CNN
+F 2 "footprints:diode" H 1300 2500 60  0001 C CNN
 F 3 "" H 1300 2500 60  0000 C CNN
 	1    1300 2500
 	-1   0    0    1   
@@ -115,7 +115,7 @@ U 1 1 5E36F49F
 P 2100 1100
 F 0 "D2" H 1972 1050 60  0000 R CNN
 F 1 "D" V 2250 1050 60  0001 C CNN
-F 2 "footprints:diode-vertical" H 2100 1100 60  0001 C CNN
+F 2 "footprints:diode" H 2100 1100 60  0001 C CNN
 F 3 "" H 2100 1100 60  0000 C CNN
 	1    2100 1100
 	-1   0    0    1   
@@ -139,7 +139,7 @@ U 1 1 5E36F4AC
 P 2100 1800
 F 0 "D8" H 1972 1750 60  0000 R CNN
 F 1 "D" V 2250 1750 60  0001 C CNN
-F 2 "footprints:diode-vertical" H 2100 1800 60  0001 C CNN
+F 2 "footprints:diode" H 2100 1800 60  0001 C CNN
 F 3 "" H 2100 1800 60  0000 C CNN
 	1    2100 1800
 	-1   0    0    1   
@@ -163,7 +163,7 @@ U 1 1 5E36F4B9
 P 2100 2500
 F 0 "D14" H 1972 2450 60  0000 R CNN
 F 1 "D" V 2250 2450 60  0001 C CNN
-F 2 "footprints:diode-vertical" H 2100 2500 60  0001 C CNN
+F 2 "footprints:diode" H 2100 2500 60  0001 C CNN
 F 3 "" H 2100 2500 60  0000 C CNN
 	1    2100 2500
 	-1   0    0    1   
@@ -193,7 +193,7 @@ U 1 1 5E37DE86
 P 2950 1100
 F 0 "D3" H 2822 1050 60  0000 R CNN
 F 1 "D" V 3100 1050 60  0001 C CNN
-F 2 "footprints:diode-vertical" H 2950 1100 60  0001 C CNN
+F 2 "footprints:diode" H 2950 1100 60  0001 C CNN
 F 3 "" H 2950 1100 60  0000 C CNN
 	1    2950 1100
 	-1   0    0    1   
@@ -217,7 +217,7 @@ U 1 1 5E37DE93
 P 2950 1800
 F 0 "D9" H 2822 1750 60  0000 R CNN
 F 1 "D" V 3100 1750 60  0001 C CNN
-F 2 "footprints:diode-vertical" H 2950 1800 60  0001 C CNN
+F 2 "footprints:diode" H 2950 1800 60  0001 C CNN
 F 3 "" H 2950 1800 60  0000 C CNN
 	1    2950 1800
 	-1   0    0    1   
@@ -241,7 +241,7 @@ U 1 1 5E37DEA0
 P 2950 2500
 F 0 "D15" H 2822 2450 60  0000 R CNN
 F 1 "D" V 3100 2450 60  0001 C CNN
-F 2 "footprints:diode-vertical" H 2950 2500 60  0001 C CNN
+F 2 "footprints:diode" H 2950 2500 60  0001 C CNN
 F 3 "" H 2950 2500 60  0000 C CNN
 	1    2950 2500
 	-1   0    0    1   
@@ -271,7 +271,7 @@ U 1 1 5E37DEC1
 P 3750 1100
 F 0 "D4" H 3622 1050 60  0000 R CNN
 F 1 "D" V 3900 1050 60  0001 C CNN
-F 2 "footprints:diode-vertical" H 3750 1100 60  0001 C CNN
+F 2 "footprints:diode" H 3750 1100 60  0001 C CNN
 F 3 "" H 3750 1100 60  0000 C CNN
 	1    3750 1100
 	-1   0    0    1   
@@ -295,7 +295,7 @@ U 1 1 5E37DECE
 P 3750 1800
 F 0 "D10" H 3622 1750 60  0000 R CNN
 F 1 "D" V 3900 1750 60  0001 C CNN
-F 2 "footprints:diode-vertical" H 3750 1800 60  0001 C CNN
+F 2 "footprints:diode" H 3750 1800 60  0001 C CNN
 F 3 "" H 3750 1800 60  0000 C CNN
 	1    3750 1800
 	-1   0    0    1   
@@ -319,7 +319,7 @@ U 1 1 5E37DEDB
 P 3750 2500
 F 0 "D16" H 3622 2450 60  0000 R CNN
 F 1 "D" V 3900 2450 60  0001 C CNN
-F 2 "footprints:diode-vertical" H 3750 2500 60  0001 C CNN
+F 2 "footprints:diode" H 3750 2500 60  0001 C CNN
 F 3 "" H 3750 2500 60  0000 C CNN
 	1    3750 2500
 	-1   0    0    1   
@@ -343,7 +343,7 @@ U 1 1 5E37DEE8
 P 3750 3200
 F 0 "D21" H 3622 3150 60  0000 R CNN
 F 1 "D" V 3900 3150 60  0001 C CNN
-F 2 "footprints:diode-vertical" H 3750 3200 60  0001 C CNN
+F 2 "footprints:diode" H 3750 3200 60  0001 C CNN
 F 3 "" H 3750 3200 60  0000 C CNN
 	1    3750 3200
 	-1   0    0    1   
@@ -373,7 +373,7 @@ U 1 1 5E38B25B
 P 4550 1100
 F 0 "D5" H 4422 1050 60  0000 R CNN
 F 1 "D" V 4700 1050 60  0001 C CNN
-F 2 "footprints:diode-vertical" H 4550 1100 60  0001 C CNN
+F 2 "footprints:diode" H 4550 1100 60  0001 C CNN
 F 3 "" H 4550 1100 60  0000 C CNN
 	1    4550 1100
 	-1   0    0    1   
@@ -397,7 +397,7 @@ U 1 1 5E38B268
 P 4550 1800
 F 0 "D11" H 4422 1750 60  0000 R CNN
 F 1 "D" V 4700 1750 60  0001 C CNN
-F 2 "footprints:diode-vertical" H 4550 1800 60  0001 C CNN
+F 2 "footprints:diode" H 4550 1800 60  0001 C CNN
 F 3 "" H 4550 1800 60  0000 C CNN
 	1    4550 1800
 	-1   0    0    1   
@@ -421,7 +421,7 @@ U 1 1 5E38B275
 P 4550 2500
 F 0 "D17" H 4422 2450 60  0000 R CNN
 F 1 "D" V 4700 2450 60  0001 C CNN
-F 2 "footprints:diode-vertical" H 4550 2500 60  0001 C CNN
+F 2 "footprints:diode" H 4550 2500 60  0001 C CNN
 F 3 "" H 4550 2500 60  0000 C CNN
 	1    4550 2500
 	-1   0    0    1   
@@ -445,7 +445,7 @@ U 1 1 5E38B282
 P 4550 3200
 F 0 "D22" H 4422 3150 60  0000 R CNN
 F 1 "D" V 4700 3150 60  0001 C CNN
-F 2 "footprints:diode-vertical" H 4550 3200 60  0001 C CNN
+F 2 "footprints:diode" H 4550 3200 60  0001 C CNN
 F 3 "" H 4550 3200 60  0000 C CNN
 	1    4550 3200
 	-1   0    0    1   
@@ -535,7 +535,7 @@ U 1 1 5EA5DDB5
 P 750 4500
 F 0 "diode1" H 622 4450 60  0000 R CNN
 F 1 "diode" V 900 4450 60  0001 C CNN
-F 2 "footprints:diode-vertical" H 750 4500 60  0001 C CNN
+F 2 "footprints:diode" H 750 4500 60  0001 C CNN
 F 3 "" H 750 4500 60  0000 C CNN
 	1    750  4500
 	-1   0    0    1   
@@ -557,7 +557,7 @@ U 1 1 5EA6010A
 P 750 5100
 F 0 "diode8" H 622 5050 60  0000 R CNN
 F 1 "diode" V 900 5050 60  0001 C CNN
-F 2 "footprints:diode-vertical" H 750 5100 60  0001 C CNN
+F 2 "footprints:diode" H 750 5100 60  0001 C CNN
 F 3 "" H 750 5100 60  0000 C CNN
 	1    750  5100
 	-1   0    0    1   
@@ -579,7 +579,7 @@ U 1 1 5EA73553
 P 750 5700
 F 0 "diode15" H 622 5650 60  0000 R CNN
 F 1 "diode" V 900 5650 60  0001 C CNN
-F 2 "footprints:diode-vertical" H 750 5700 60  0001 C CNN
+F 2 "footprints:diode" H 750 5700 60  0001 C CNN
 F 3 "" H 750 5700 60  0000 C CNN
 	1    750  5700
 	-1   0    0    1   
@@ -601,7 +601,7 @@ U 1 1 5EA7355F
 P 750 6300
 F 0 "diode22" H 622 6250 60  0000 R CNN
 F 1 "diode" V 900 6250 60  0001 C CNN
-F 2 "footprints:diode-vertical" H 750 6300 60  0001 C CNN
+F 2 "footprints:diode" H 750 6300 60  0001 C CNN
 F 3 "" H 750 6300 60  0000 C CNN
 	1    750  6300
 	-1   0    0    1   
@@ -623,7 +623,7 @@ U 1 1 5EA7CAB2
 P 1650 4500
 F 0 "diode2" H 1522 4450 60  0000 R CNN
 F 1 "diode" V 1800 4450 60  0001 C CNN
-F 2 "footprints:diode-vertical" H 1650 4500 60  0001 C CNN
+F 2 "footprints:diode" H 1650 4500 60  0001 C CNN
 F 3 "" H 1650 4500 60  0000 C CNN
 	1    1650 4500
 	-1   0    0    1   
@@ -645,7 +645,7 @@ U 1 1 5EA7CABE
 P 1650 5100
 F 0 "diode9" H 1522 5050 60  0000 R CNN
 F 1 "diode" V 1800 5050 60  0001 C CNN
-F 2 "footprints:diode-vertical" H 1650 5100 60  0001 C CNN
+F 2 "footprints:diode" H 1650 5100 60  0001 C CNN
 F 3 "" H 1650 5100 60  0000 C CNN
 	1    1650 5100
 	-1   0    0    1   
@@ -667,7 +667,7 @@ U 1 1 5EA7CACA
 P 1650 5700
 F 0 "diode16" H 1522 5650 60  0000 R CNN
 F 1 "diode" V 1800 5650 60  0001 C CNN
-F 2 "footprints:diode-vertical" H 1650 5700 60  0001 C CNN
+F 2 "footprints:diode" H 1650 5700 60  0001 C CNN
 F 3 "" H 1650 5700 60  0000 C CNN
 	1    1650 5700
 	-1   0    0    1   
@@ -700,7 +700,7 @@ U 1 1 5EA8342F
 P 2550 4500
 F 0 "diode3" H 2422 4450 60  0000 R CNN
 F 1 "diode" V 2700 4450 60  0001 C CNN
-F 2 "footprints:diode-vertical" H 2550 4500 60  0001 C CNN
+F 2 "footprints:diode" H 2550 4500 60  0001 C CNN
 F 3 "" H 2550 4500 60  0000 C CNN
 	1    2550 4500
 	-1   0    0    1   
@@ -722,7 +722,7 @@ U 1 1 5EA8343B
 P 2550 5100
 F 0 "diode10" H 2422 5050 60  0000 R CNN
 F 1 "diode" V 2700 5050 60  0001 C CNN
-F 2 "footprints:diode-vertical" H 2550 5100 60  0001 C CNN
+F 2 "footprints:diode" H 2550 5100 60  0001 C CNN
 F 3 "" H 2550 5100 60  0000 C CNN
 	1    2550 5100
 	-1   0    0    1   
@@ -744,7 +744,7 @@ U 1 1 5EA83447
 P 2550 5700
 F 0 "diode17" H 2422 5650 60  0000 R CNN
 F 1 "diode" V 2700 5650 60  0001 C CNN
-F 2 "footprints:diode-vertical" H 2550 5700 60  0001 C CNN
+F 2 "footprints:diode" H 2550 5700 60  0001 C CNN
 F 3 "" H 2550 5700 60  0000 C CNN
 	1    2550 5700
 	-1   0    0    1   
@@ -766,7 +766,7 @@ U 1 1 5EA86E1C
 P 3450 4500
 F 0 "diode4" H 3322 4450 60  0000 R CNN
 F 1 "diode" V 3600 4450 60  0001 C CNN
-F 2 "footprints:diode-vertical" H 3450 4500 60  0001 C CNN
+F 2 "footprints:diode" H 3450 4500 60  0001 C CNN
 F 3 "" H 3450 4500 60  0000 C CNN
 	1    3450 4500
 	-1   0    0    1   
@@ -788,7 +788,7 @@ U 1 1 5EA86E28
 P 3450 5100
 F 0 "diode11" H 3322 5050 60  0000 R CNN
 F 1 "diode" V 3600 5050 60  0001 C CNN
-F 2 "footprints:diode-vertical" H 3450 5100 60  0001 C CNN
+F 2 "footprints:diode" H 3450 5100 60  0001 C CNN
 F 3 "" H 3450 5100 60  0000 C CNN
 	1    3450 5100
 	-1   0    0    1   
@@ -810,7 +810,7 @@ U 1 1 5EA86E34
 P 3450 5700
 F 0 "diode18" H 3322 5650 60  0000 R CNN
 F 1 "diode" V 3600 5650 60  0001 C CNN
-F 2 "footprints:diode-vertical" H 3450 5700 60  0001 C CNN
+F 2 "footprints:diode" H 3450 5700 60  0001 C CNN
 F 3 "" H 3450 5700 60  0000 C CNN
 	1    3450 5700
 	-1   0    0    1   
@@ -832,7 +832,7 @@ U 1 1 5EA89D6D
 P 4350 4500
 F 0 "diode5" H 4222 4450 60  0000 R CNN
 F 1 "diode" V 4500 4450 60  0001 C CNN
-F 2 "footprints:diode-vertical" H 4350 4500 60  0001 C CNN
+F 2 "footprints:diode" H 4350 4500 60  0001 C CNN
 F 3 "" H 4350 4500 60  0000 C CNN
 	1    4350 4500
 	-1   0    0    1   
@@ -854,7 +854,7 @@ U 1 1 5EA89D79
 P 4350 5100
 F 0 "diode12" H 4222 5050 60  0000 R CNN
 F 1 "diode" V 4500 5050 60  0001 C CNN
-F 2 "footprints:diode-vertical" H 4350 5100 60  0001 C CNN
+F 2 "footprints:diode" H 4350 5100 60  0001 C CNN
 F 3 "" H 4350 5100 60  0000 C CNN
 	1    4350 5100
 	-1   0    0    1   
@@ -876,7 +876,7 @@ U 1 1 5EA89D85
 P 4350 5700
 F 0 "diode19" H 4222 5650 60  0000 R CNN
 F 1 "diode" V 4500 5650 60  0001 C CNN
-F 2 "footprints:diode-vertical" H 4350 5700 60  0001 C CNN
+F 2 "footprints:diode" H 4350 5700 60  0001 C CNN
 F 3 "" H 4350 5700 60  0000 C CNN
 	1    4350 5700
 	-1   0    0    1   
@@ -1044,7 +1044,7 @@ U 1 1 5F947F0C
 P 2100 3200
 F 0 "D20" H 1972 3150 60  0000 R CNN
 F 1 "D" V 2250 3150 60  0001 C CNN
-F 2 "footprints:diode-vertical" H 2100 3200 60  0001 C CNN
+F 2 "footprints:diode" H 2100 3200 60  0001 C CNN
 F 3 "" H 2100 3200 60  0000 C CNN
 	1    2100 3200
 	-1   0    0    1   
@@ -1068,7 +1068,7 @@ U 1 1 5F94C4B1
 P 1650 6300
 F 0 "diode24" H 1522 6250 60  0000 R CNN
 F 1 "diode" V 1800 6250 60  0001 C CNN
-F 2 "footprints:diode-vertical" H 1650 6300 60  0001 C CNN
+F 2 "footprints:diode" H 1650 6300 60  0001 C CNN
 F 3 "" H 1650 6300 60  0000 C CNN
 	1    1650 6300
 	-1   0    0    1   
@@ -1091,7 +1091,7 @@ U 1 1 600A2CB8
 P 1300 3200
 F 0 "D19" H 1172 3150 60  0000 R CNN
 F 1 "D" V 1450 3150 60  0001 C CNN
-F 2 "footprints:diode-vertical" H 1300 3200 60  0001 C CNN
+F 2 "footprints:diode" H 1300 3200 60  0001 C CNN
 F 3 "" H 1300 3200 60  0000 C CNN
 	1    1300 3200
 	-1   0    0    1   
@@ -1131,7 +1131,7 @@ U 1 1 600C59B1
 P 5475 1100
 F 0 "D6" H 5347 1050 60  0000 R CNN
 F 1 "D" V 5625 1050 60  0001 C CNN
-F 2 "footprints:diode-vertical" H 5475 1100 60  0001 C CNN
+F 2 "footprints:diode" H 5475 1100 60  0001 C CNN
 F 3 "" H 5475 1100 60  0000 C CNN
 	1    5475 1100
 	-1   0    0    1   
@@ -1153,7 +1153,7 @@ U 1 1 600C59C5
 P 5475 1800
 F 0 "D12" H 5347 1750 60  0000 R CNN
 F 1 "D" V 5625 1750 60  0001 C CNN
-F 2 "footprints:diode-vertical" H 5475 1800 60  0001 C CNN
+F 2 "footprints:diode" H 5475 1800 60  0001 C CNN
 F 3 "" H 5475 1800 60  0000 C CNN
 	1    5475 1800
 	-1   0    0    1   
@@ -1175,7 +1175,7 @@ U 1 1 600C59D9
 P 5475 2500
 F 0 "D18" H 5347 2450 60  0000 R CNN
 F 1 "D" V 5625 2450 60  0001 C CNN
-F 2 "footprints:diode-vertical" H 5475 2500 60  0001 C CNN
+F 2 "footprints:diode" H 5475 2500 60  0001 C CNN
 F 3 "" H 5475 2500 60  0000 C CNN
 	1    5475 2500
 	-1   0    0    1   
@@ -1197,7 +1197,7 @@ U 1 1 600C59ED
 P 5475 3200
 F 0 "D23" H 5347 3150 60  0000 R CNN
 F 1 "D" V 5625 3150 60  0001 C CNN
-F 2 "footprints:diode-vertical" H 5475 3200 60  0001 C CNN
+F 2 "footprints:diode" H 5475 3200 60  0001 C CNN
 F 3 "" H 5475 3200 60  0000 C CNN
 	1    5475 3200
 	-1   0    0    1   
@@ -1260,7 +1260,7 @@ U 1 1 60137E52
 P 5250 4500
 F 0 "diode6" H 5122 4450 60  0000 R CNN
 F 1 "diode" V 5400 4450 60  0001 C CNN
-F 2 "footprints:diode-vertical" H 5250 4500 60  0001 C CNN
+F 2 "footprints:diode" H 5250 4500 60  0001 C CNN
 F 3 "" H 5250 4500 60  0000 C CNN
 	1    5250 4500
 	-1   0    0    1   
@@ -1282,7 +1282,7 @@ U 1 1 60137E66
 P 5250 5100
 F 0 "diode13" H 5122 5050 60  0000 R CNN
 F 1 "diode" V 5400 5050 60  0001 C CNN
-F 2 "footprints:diode-vertical" H 5250 5100 60  0001 C CNN
+F 2 "footprints:diode" H 5250 5100 60  0001 C CNN
 F 3 "" H 5250 5100 60  0000 C CNN
 	1    5250 5100
 	-1   0    0    1   
@@ -1304,7 +1304,7 @@ U 1 1 60137E7A
 P 5250 5700
 F 0 "diode20" H 5122 5650 60  0000 R CNN
 F 1 "diode" V 5400 5650 60  0001 C CNN
-F 2 "footprints:diode-vertical" H 5250 5700 60  0001 C CNN
+F 2 "footprints:diode" H 5250 5700 60  0001 C CNN
 F 3 "" H 5250 5700 60  0000 C CNN
 	1    5250 5700
 	-1   0    0    1   
@@ -1335,7 +1335,7 @@ U 1 1 60176D3C
 P 2850 6150
 F 0 "switch25" H 2850 6405 50  0000 C CNN
 F 1 "switch" H 2850 6314 50  0000 C CNN
-F 2 "footprints:15u-minimal" H 2850 6150 60  0001 C CNN
+F 2 "footprints:1u-minimal" H 2850 6150 60  0001 C CNN
 F 3 "" H 2850 6150 60  0000 C CNN
 	1    2850 6150
 	1    0    0    -1  
@@ -1346,7 +1346,7 @@ U 1 1 6017710C
 P 2550 6300
 F 0 "diode25" H 2422 6250 60  0000 R CNN
 F 1 "diode" V 2700 6250 60  0001 C CNN
-F 2 "footprints:diode-vertical" H 2550 6300 60  0001 C CNN
+F 2 "footprints:diode" H 2550 6300 60  0001 C CNN
 F 3 "" H 2550 6300 60  0000 C CNN
 	1    2550 6300
 	-1   0    0    1   
@@ -1368,7 +1368,7 @@ U 1 1 601830E2
 P 5250 6300
 F 0 "diode26" H 5122 6250 60  0000 R CNN
 F 1 "diode" V 5400 6250 60  0001 C CNN
-F 2 "footprints:diode-vertical" H 5250 6300 60  0001 C CNN
+F 2 "footprints:diode" H 5250 6300 60  0001 C CNN
 F 3 "" H 5250 6300 60  0000 C CNN
 	1    5250 6300
 	-1   0    0    1   
@@ -1412,7 +1412,7 @@ U 1 1 602974B0
 P 6150 4500
 F 0 "diode7" H 6022 4450 60  0000 R CNN
 F 1 "diode" V 6300 4450 60  0001 C CNN
-F 2 "footprints:diode-vertical" H 6150 4500 60  0001 C CNN
+F 2 "footprints:diode" H 6150 4500 60  0001 C CNN
 F 3 "" H 6150 4500 60  0000 C CNN
 	1    6150 4500
 	-1   0    0    1   
@@ -1434,7 +1434,7 @@ U 1 1 602974D8
 P 6150 5700
 F 0 "diode21" H 6022 5650 60  0000 R CNN
 F 1 "diode" V 6300 5650 60  0001 C CNN
-F 2 "footprints:diode-vertical" H 6150 5700 60  0001 C CNN
+F 2 "footprints:diode" H 6150 5700 60  0001 C CNN
 F 3 "" H 6150 5700 60  0000 C CNN
 	1    6150 5700
 	-1   0    0    1   
@@ -1464,7 +1464,7 @@ U 1 1 602974F6
 P 6150 6300
 F 0 "diode27" H 6022 6250 60  0000 R CNN
 F 1 "diode" V 6300 6250 60  0001 C CNN
-F 2 "footprints:diode-vertical" H 6150 6300 60  0001 C CNN
+F 2 "footprints:diode" H 6150 6300 60  0001 C CNN
 F 3 "" H 6150 6300 60  0000 C CNN
 	1    6150 6300
 	-1   0    0    1   

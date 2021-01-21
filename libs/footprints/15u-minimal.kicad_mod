@@ -26,4 +26,9 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
+  (model ${KIPRJMOD}/../3d-models/DSA_Keycap_CherryMX.step
+    (offset (xyz 0 0 9.5))
+    (scale (xyz 1.5 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )

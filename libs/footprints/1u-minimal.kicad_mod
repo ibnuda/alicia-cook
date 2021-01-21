@@ -1,4 +1,4 @@
-(module 1u-minimal (layer F.Cu) (tedit 600567C7)
+(module 1u-minimal (layer F.Cu) (tedit 60098045)
   (fp_text reference CHERRY (at 0 4) (layer F.SilkS) hide
     (effects (font (size 1.27 1.524) (thickness 0.2032)))
   )
@@ -22,5 +22,10 @@
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
+  )
+  (model ${KIPRJMOD}/../3d-models/DSA_Keycap_CherryMX.step
+    (offset (xyz 0 0 9.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
   )
 )
