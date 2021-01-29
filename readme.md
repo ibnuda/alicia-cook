@@ -11,5 +11,7 @@ but, you should actually split it off and connect them using idc 2x5, tho.
 
 ![bottom](bottom.png)
 
+![working condition](alicia-cook.jpg)
+
 ## license
 of course it's GPLv3.
